@@ -28,7 +28,7 @@ MODEL_MAP = {
 }
 
 ARCH_DEFAULTS = {
-    "170m": {"pooling": "attn", "mlp_hidden_size": 512, "n_unfreeze": 4},
+    "170m": {"pooling": "last_token", "mlp_hidden_size": 1024, "n_unfreeze": 8},
     "380m": {"pooling": "last_token", "mlp_hidden_size": 1024, "n_unfreeze": 4},
     "1b": {"pooling": "last_token", "mlp_hidden_size": 1024, "n_unfreeze": 16},
     "3b": {"pooling": "attn", "mlp_hidden_size": 512, "n_unfreeze": 8}

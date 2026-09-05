@@ -2,14 +2,14 @@
 
 170m:
   model_name: "yerevann/chemllama-170m"
-  backbone_lr: 0.0005877163963817636
+  backbone_lr: 0.000183
   batch_size: 64
-  head_lr: 0.008822212297036662
-  mlp_hidden_size: 512
-  n_unfreeze: 4
-  pooling: "attn"
+  head_lr: 0.00105
+  mlp_hidden_size: 1024
+  n_unfreeze: 8
+  pooling: "last_token"
   weight_decay: 0.1
-  focal_gamma: 2.0
+  focal_gamma: 0.0
   dropout: 0.25
   warmup_ratio: 0.1
   epochs: 3
