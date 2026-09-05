@@ -7,7 +7,7 @@ This track evaluates language model scaling for molecular property prediction ac
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 1. **Polaris ADME (`polaris/adme-fang-r-1`):**
    * **Automatic Download:** Managed via the Polaris SDK. Running `po.load_benchmark("polaris/adme-fang-r-1")` automatically downloads and caches the data locally.
@@ -26,7 +26,7 @@ This track evaluates language model scaling for molecular property prediction ac
 
 ---
 
-## 🚀 Quickstart Workflows
+## Quickstart Workflows
 
 ### 1. Hyperparameter Sweeps (`greed-search/`)
 Bayesian sweeps over learning rates, unfreezing depths, pooling strategies, batch sizes, and weight decays:
