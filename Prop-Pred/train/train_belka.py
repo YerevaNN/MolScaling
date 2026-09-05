@@ -242,8 +242,12 @@ def main():
     parser = argparse.ArgumentParser(description="Multi-Seed Training for Belka Multi-target Classification")
     parser.add_argument("--model", type=str, default="380m", help="Model scale (170m, 380m, 1b, 3b)")
     parser.add_argument("--config", type=str, default=None, help="Path to custom config YAML")
-    default_data_dir = "/mnt/weka/asafrastyan/belka/data/processed_full" if os.path.isdir("/mnt/weka/asafrastyan/belka/data/processed_full") else "./data/belka/processed_full"
-    parser.add_argument("--data_dir", type=str, default=default_data_dir, help="Directory with processed parquet files")
+    parser.add_argument(
+        "--data_dir",
+        type=str,
+        default=os.environ.get("BELKA_DATA_DIR", "./data/belka/processed_full"),
+        help="Directory with processed parquet files (or set via BELKA_DATA_DIR)"
+    )
     parser.add_argument("--seeds", nargs="+", type=int, default=[16, 42, 85], help="List of random seeds")
     parser.add_argument("--output_dir", type=str, default="./weights/belka", help="Directory to save model checkpoints")
     args = parser.parse_args()

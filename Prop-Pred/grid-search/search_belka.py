@@ -311,8 +311,12 @@ def train_trial(train_dataset, val_loader, tokenizer, device, config, model_name
 def main():
     parser = argparse.ArgumentParser(description="Belka Multi-target Bayesian / Grid Search Sweep")
     parser.add_argument("--model", type=str, default="170m", help="Model scale (170m, 380m, 1b, 3b) or Hugging Face repository ID")
-    default_data_dir = "/mnt/weka/asafrastyan/belka/data/processed_full" if os.path.isdir("/mnt/weka/asafrastyan/belka/data/processed_full") else "./data/belka/processed_full"
-    parser.add_argument("--data_dir", type=str, default=default_data_dir, help="Directory containing processed Belka parquet files")
+    parser.add_argument(
+        "--data_dir",
+        type=str,
+        default=os.environ.get("BELKA_DATA_DIR", "./data/belka/processed_full"),
+        help="Directory containing processed Belka parquet files (or set via BELKA_DATA_DIR)"
+    )
     parser.add_argument("--project", type=str, default="chemlactica-belka-thesis", help="WandB project name")
     parser.add_argument("--entity", type=str, default=None, help="WandB entity name")
     parser.add_argument("--count", type=int, default=50, help="Number of sweep trials to execute")

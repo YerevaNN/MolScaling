@@ -32,18 +32,18 @@ This track evaluates language model scaling for molecular property prediction ac
 
 ## Quickstart Workflows
 
-### 1. Hyperparameter Sweeps (`greed-search/`)
+### 1. Hyperparameter Sweeps (`grid-search/`)
 Bayesian sweeps over learning rates, unfreezing depths, pooling strategies, batch sizes, and weight decays:
 
 ```bash
 # PXR sweep
-python Prop-Pred/greed-search/search_pxr.py --model 380m --count 100
+python Prop-Pred/grid-search/search_pxr.py --model 380m --count 100
 
 # Polaris ADME sweep (stratified fold 0)
-python Prop-Pred/greed-search/search_polaris.py --model 3b --count 100
+python Prop-Pred/grid-search/search_polaris.py --model 3b --count 100
 
 # Belka sweep
-python Prop-Pred/greed-search/search_belka.py --model 1b --count 50
+python Prop-Pred/grid-search/search_belka.py --model 1b --count 50
 ```
 
 ---

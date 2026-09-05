@@ -111,8 +111,12 @@ class BelkaTestDataset(Dataset):
 def main():
     parser = argparse.ArgumentParser(description="Generate Kaggle Leash-BELKA Test Predictions")
     parser.add_argument("--model", type=str, default="380m", help="Model scale (170m, 380m, 1b, 3b)")
-    default_test = "/mnt/weka/asafrastyan/belka/data/test.parquet" if os.path.exists("/mnt/weka/asafrastyan/belka/data/test.parquet") else "./data/belka/test.parquet"
-    parser.add_argument("--test_parquet", type=str, default=default_test, help="Path to Kaggle test.parquet")
+    parser.add_argument(
+        "--test_parquet",
+        type=str,
+        default=os.environ.get("BELKA_TEST_PARQUET", "./data/belka/test.parquet"),
+        help="Path to Kaggle test.parquet (or set via BELKA_TEST_PARQUET)"
+    )
     parser.add_argument("--weights_dir", type=str, default=None, help="Directory with seed checkpoints")
     parser.add_argument("--seeds", nargs="+", type=int, default=[16, 42, 85], help="Seeds to evaluate/ensemble")
     parser.add_argument("--batch_size", type=int, default=256, help="Batch size for FP16 inference")
