@@ -1,0 +1,18 @@
+{
+  "n": 1000,
+  "seed": 1,
+  "fewshot_k": 0,
+  "mol_tag_style": "chemllama",
+  "mol_open": "[SMILES]",
+  "mol_close": "[/SMILES]",
+  "tasks": [
+    "qed",
+    "sas",
+    "similarity_random",
+    "qed_sas",
+    "sas_qed",
+    "qed_sas_similarity_random",
+    "sas_qed_similarity_random"
+  ],
+  "zinc_csv": "/home/gsimonyan/Even-More-PMO/genmol/data/zinc250k.csv"
+}
