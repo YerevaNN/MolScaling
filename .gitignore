@@ -219,3 +219,18 @@ __marimo__/
 
 
 .env_vars_dev
+
+# Model weights & checkpoints
+*.pt
+*.pth
+*.bin
+*.ckpt
+weights/
+checkpoints/
+
+# Experiment runs, caches, and submissions
+wandb/
+results/
+submissions/
+*.parquet
+.cache/

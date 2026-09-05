@@ -1,0 +1,57 @@
+# Optimal Hyperparameters for Polaris ADME Benchmark across ChemLlama scales
+
+170m:
+  model_name: "yerevann/chemllama-170m"
+  backbone_lr: 0.00005550795672643309
+  batch_size: 16
+  head_lr: 0.000986032560100241
+  mlp_hidden_size: 512
+  mlp_layers: 2
+  n_unfreeze: 8
+  pooling: "last_token"
+  weight_decay: 0.2
+  dropout: 0.1
+  warmup_ratio: 0.1
+  epochs: 10
+
+380m:
+  model_name: "yerevann/ChemLlama-380M"
+  backbone_lr: 0.00003546940123587843
+  batch_size: 16
+  head_lr: 0.006462823994896947
+  mlp_hidden_size: 512
+  mlp_layers: 2
+  n_unfreeze: 16
+  pooling: "last_token"
+  weight_decay: 0.2
+  dropout: 0.1
+  warmup_ratio: 0.1
+  epochs: 10
+
+1b:
+  model_name: "yerevann/ChemLlama-1B"
+  backbone_lr: 0.00001537078452573621
+  batch_size: 16
+  head_lr: 0.00046456062804424274
+  mlp_hidden_size: 512
+  mlp_layers: 2
+  n_unfreeze: 16
+  pooling: "last_token"
+  weight_decay: 0.15
+  dropout: 0.1
+  warmup_ratio: 0.1
+  epochs: 10
+
+3b:
+  model_name: "yerevann/ChemLlama-3B"
+  backbone_lr: 0.00000977686576038078
+  batch_size: 32
+  head_lr: 0.00004566959756306205
+  mlp_hidden_size: 512
+  mlp_layers: 2
+  n_unfreeze: 24
+  pooling: "last_token"
+  weight_decay: 0.25
+  dropout: 0.1
+  warmup_ratio: 0.1
+  epochs: 10

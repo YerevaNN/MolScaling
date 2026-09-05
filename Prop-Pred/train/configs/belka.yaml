@@ -1,0 +1,57 @@
+# Optimal Hyperparameters for Belka Multi-target Classification across ChemLlama scales
+
+170m:
+  model_name: "yerevann/chemllama-170m"
+  backbone_lr: 0.0005877163963817636
+  batch_size: 64
+  head_lr: 0.008822212297036662
+  mlp_hidden_size: 512
+  n_unfreeze: 4
+  pooling: "attn"
+  weight_decay: 0.1
+  focal_gamma: 2.0
+  dropout: 0.25
+  warmup_ratio: 0.1
+  epochs: 3
+
+380m:
+  model_name: "yerevann/ChemLlama-380M"
+  backbone_lr: 0.00013670590006287288
+  batch_size: 32
+  head_lr: 0.0002994488183279128
+  mlp_hidden_size: 1024
+  n_unfreeze: 4
+  pooling: "last_token"
+  weight_decay: 0.05
+  focal_gamma: 0.0
+  dropout: 0.25
+  warmup_ratio: 0.1
+  epochs: 3
+
+1b:
+  model_name: "yerevann/ChemLlama-1B"
+  backbone_lr: 0.00007406574835803447
+  batch_size: 64
+  head_lr: 0.00019897571999052456
+  mlp_hidden_size: 1024
+  n_unfreeze: 16
+  pooling: "last_token"
+  weight_decay: 0.2
+  focal_gamma: 2.0
+  dropout: 0.25
+  warmup_ratio: 0.1
+  epochs: 3
+
+3b:
+  model_name: "yerevann/ChemLlama-3B"
+  backbone_lr: 0.000187443496898048
+  batch_size: 64
+  head_lr: 0.00015825313651870047
+  mlp_hidden_size: 512
+  n_unfreeze: 8
+  pooling: "attn"
+  weight_decay: 0.1
+  focal_gamma: 2.0
+  dropout: 0.25
+  warmup_ratio: 0.1
+  epochs: 3
