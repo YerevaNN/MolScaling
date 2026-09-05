@@ -23,6 +23,10 @@ This track evaluates language model scaling for molecular property prediction ac
      kaggle competitions download -c leash-BELKA -p ./data/belka/
      unzip ./data/belka/leash-BELKA.zip -d ./data/belka/
      ```
+   * Preprocess and partition `train.parquet` for streaming training:
+     ```bash
+     python Prop-Pred/data/prepare_belka.py --raw_parquet ./data/belka/train.parquet --out_dir ./data/belka/processed_full
+     ```
 
 ---
 
