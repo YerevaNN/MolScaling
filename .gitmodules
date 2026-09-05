@@ -1,0 +1,3 @@
+[submodule "PMO-Dock"]
+	path = PMO-Dock
+	url = https://github.com/YerevaNN/PMO-Dock.git
