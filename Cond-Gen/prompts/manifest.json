@@ -14,5 +14,5 @@
     "qed_sas_similarity_random",
     "sas_qed_similarity_random"
   ],
-  "zinc_csv": "/home/gsimonyan/Even-More-PMO/genmol/data/zinc250k.csv"
+  "format": "json-array"
 }

@@ -25,7 +25,7 @@ from utils.models import _freeze_all_but_last_n, AttnPool, _mean_pool
 from utils.metrics import _set_seed
 
 MODEL_MAP = {
-    "170m": "yerevann/chemllama-170m",
+    "170m": "yerevann/ChemLlama-170M",
     "380m": "yerevann/ChemLlama-380M",
     "1b": "yerevann/ChemLlama-1B",
     "1.3b": "yerevann/ChemLlama-1B",

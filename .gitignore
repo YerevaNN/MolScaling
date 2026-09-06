@@ -220,6 +220,9 @@ __marimo__/
 
 .env_vars_dev
 
+# OS junk
+.DS_Store
+
 # Model weights & checkpoints
 *.pt
 *.pth

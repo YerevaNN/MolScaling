@@ -1,0 +1,53 @@
+# Everything except --model and --task(s). Override locally if needed;
+# do not commit machine-specific paths here.
+# Generated molecules are scored with PMO-Dock/benchmark computers (QED, SA, similarity).
+seed: 1
+n: 1000
+
+generation:
+  max_new_tokens: 500
+  temperature: 1.0
+  repetition_penalty: 1.01
+  do_sample: true
+  dtype: fp32
+  device: cuda
+  batch_size: 32
+  attn_implementation: sdpa
+
+io:
+  prompts_dir: prompts
+  results_dir: results
+  save_generations: true
+  save_scatter: true
+  skip_existing: true
+
+plot:
+  sas_norm: 5.0
+  model_order:
+    - chemllama-170m
+    - chemllama-380m
+    - chemllama-1b
+    - chemllama-3b
+  model_labels:
+    chemllama-170m: 170M
+    chemllama-380m: 380M
+    chemllama-1b: 1.3B
+    chemllama-3b: 3.2B
+
+# Short names used as --model. `--model all` expands to every key here.
+models:
+  chemllama-170m: yerevann/ChemLlama-170M
+  chemllama-380m: yerevann/ChemLlama-380M
+  chemllama-1b: yerevann/ChemLlama-1B
+  chemllama-3b: yerevann/ChemLlama-3B
+
+# Task name -> ordered properties scored on each generated SMILES.
+# `--tasks all` expands to every key here. Prompt tag order is the property order.
+tasks:
+  qed: [qed]
+  sas: [sas]
+  similarity_random: [similarity]
+  qed_sas: [qed, sas]
+  sas_qed: [sas, qed]
+  qed_sas_similarity_random: [qed, sas, similarity]
+  sas_qed_similarity_random: [sas, qed, similarity]

@@ -1,17 +1,32 @@
+# Shared across Prop-Pred, Cond-Gen, and PMO-Dock
 torch>=2.0.0
 transformers>=4.40.0
 accelerate>=0.30.0
 huggingface_hub>=0.23.0
-polaris-lib>=0.13.0
 rdkit>=2023.09.1
+numpy>=1.24.0
+pandas>=2.0.0
+pyyaml>=6.0.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
+
+# Prop-Pred
+polaris-lib>=0.13.0
 torchmetrics>=1.3.0
 scikit-learn>=1.3.0
 scipy>=1.11.0
-pandas>=2.0.0
-numpy>=1.24.0
 pyarrow>=14.0.0
 dask>=2024.1.0
-tqdm>=4.66.0
-pyyaml>=6.0.0
 wandb>=0.16.0
-matplotlib>=3.7.0
+
+# Cond-Gen: generation + scoring use the shared stack (transformers, RDKit, matplotlib).
+# SA/QED/similarity are computed via PMO-Dock `benchmark` (installed below).
+
+# PMO-Dock: `benchmark` package (oracles) + genetic_chemalactica
+-e ./PMO-Dock
+omegaconf>=2.3.0
+flask>=2.3
+requests>=2.28
+
+# Local docking also needs Open Babel (Python `openbabel` + `obabel` binary).
+# Install with conda, not pip:  conda install -c conda-forge openbabel

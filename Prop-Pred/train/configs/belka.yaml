@@ -1,7 +1,7 @@
 # Optimal Hyperparameters for Belka Multi-target Classification across ChemLlama scales
 
 170m:
-  model_name: "yerevann/chemllama-170m"
+  model_name: "yerevann/ChemLlama-170M"
   backbone_lr: 0.000183
   batch_size: 64
   head_lr: 0.00105

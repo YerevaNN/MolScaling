@@ -1,7 +1,7 @@
 # Optimal Hyperparameters for Polaris ADME Benchmark across ChemLlama scales
 
 170m:
-  model_name: "yerevann/chemllama-170m"
+  model_name: "yerevann/ChemLlama-170M"
   backbone_lr: 0.00005550795672643309
   batch_size: 16
   head_lr: 0.000986032560100241

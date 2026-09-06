@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "qed-0000",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7827472774680001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0001",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.594539216008
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0002",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8047917558069999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0003",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8513589709839999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0004",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.497793809826
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0005",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.682071624325
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0006",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.487709445131
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0007",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.857656841609
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0008",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.9000495519149999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0009",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8022246460369999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0010",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8465818105220001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0011",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.724119067686
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0012",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5453035451179999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0013",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.874231071586
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0014",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.855860495725
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0015",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8299251751469999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0016",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.861039746465
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0017",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.902373939944
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0018",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8000460872849999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0019",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.684824631692
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0020",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8134963028769999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0021",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.642489292947
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0022",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.725538279839
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0023",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.661741870917
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0024",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8668998360179999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0025",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.527067243472
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0026",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.621065437822
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0027",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.510097575404
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0028",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.549655742369
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0029",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.476421274749
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0030",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.886028740731
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0031",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.567005791599
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0032",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.939840218843
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0033",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.848052157244
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0034",
+    "prompt": "[QED]0.41[/QED][SMILES]",
+    "targets": {
+      "qed": 0.40945454393
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0035",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8548061319779999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0036",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6763332973899999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0037",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.565269158532
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0038",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.815159471153
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0039",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.516860949668
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0040",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.846342273503
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0041",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5002604380919999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0042",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.672554298027
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0043",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.882602060415
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0044",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.711403461488
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0045",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.856024892203
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0046",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.735011156129
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0047",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.673765264399
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0048",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.753365647567
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0049",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.675180902153
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0050",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.924815629248
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0051",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.742417432942
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0052",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.531355008605
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0053",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6933354291509999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0054",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.609055630735
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0055",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.465062755041
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0056",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.824853417627
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0057",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8378980903919999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0058",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.567638786988
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0059",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.472014974233
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0060",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.86617075405
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0061",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6960438034190001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0062",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.743792566216
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0063",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.681431522066
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0064",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.729536057439
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0065",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.627462800377
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0066",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6843383741399999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0067",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8576637516519999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0068",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.478728850732
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0069",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.651508197563
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0070",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.87843403995
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0071",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.846583294426
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0072",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.492067753819
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0073",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.670712073176
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0074",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.590213683353
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0075",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.593579194865
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0076",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.749945785837
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0077",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8038575828069999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0078",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.761467902765
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0079",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7453562865109999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0080",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.905854475059
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0081",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.548971462697
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0082",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.882320283279
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0083",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.569480452078
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0084",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8550727897139999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0085",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.616009017654
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0086",
+    "prompt": "[QED]0.46[/QED][SMILES]",
+    "targets": {
+      "qed": 0.460429871466
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0087",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.817333628741
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0088",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.746820569672
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0089",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7802469452399999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0090",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.887896656702
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0091",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.819176429327
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0092",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.585382660145
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0093",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6421509338629999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0094",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.614602176112
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0095",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.646155349739
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0096",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.597173293081
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0097",
+    "prompt": "[QED]0.32[/QED][SMILES]",
+    "targets": {
+      "qed": 0.320926166506
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0098",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.576811845515
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0099",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.917500992471
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0100",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.511964616235
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0101",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.909070367865
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0102",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.91332218669
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0103",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.85065210936
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0104",
+    "prompt": "[QED]0.35[/QED][SMILES]",
+    "targets": {
+      "qed": 0.348758946858
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0105",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.611392126026
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0106",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.750667914383
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0107",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.611817093005
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0108",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.837125435232
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0109",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8701161629
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0110",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890135478266
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0111",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.902487336535
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0112",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.817751761641
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0113",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.487827927009
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0114",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.612913258839
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0115",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.809635785185
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0116",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.684419801432
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0117",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.664091533823
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0118",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.819749681073
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0119",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.643434853833
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0120",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8488810231
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0121",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.916880278739
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0122",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.61057008044
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0123",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6892721184199999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0124",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8430461471170001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0125",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.910061753764
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0126",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.613128051146
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0127",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.505632665956
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0128",
+    "prompt": "[QED]0.46[/QED][SMILES]",
+    "targets": {
+      "qed": 0.463805477984
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0129",
+    "prompt": "[QED]0.39[/QED][SMILES]",
+    "targets": {
+      "qed": 0.388205619335
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0130",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.551650238442
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0131",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.661822945811
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0132",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6413058593800001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0133",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.768001215127
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0134",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.511081592578
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0135",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.774631648217
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0136",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7400864714640001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0137",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.832445224586
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0138",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8035281334800001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0139",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.842997453955
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0140",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6752995721770001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0141",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.704679183682
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0142",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.703690871521
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0143",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5401881560189999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0144",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8813846599869999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0145",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.735161623757
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0146",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.807746947765
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0147",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.820273221709
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0148",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7798638493819999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0149",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.845685035387
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0150",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8350213235930001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0151",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.864405193351
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0152",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.666968021601
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0153",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.620508045747
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0154",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8206662429800001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0155",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.774319034773
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0156",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.907679948952
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0157",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.750994015827
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0158",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8249882649150001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0159",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.476865513351
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0160",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.755174673959
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0161",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8016867429729999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0162",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.652944355348
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0163",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.884874825896
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0164",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.636484995085
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0165",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.478476082105
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0166",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.655851174298
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0167",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7512989120419999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0168",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.539953877178
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0169",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.50039912205
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0170",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.732700341341
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0171",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.86183242891
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0172",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.728899052745
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0173",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.798132107466
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0174",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.847547748035
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0175",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7884028374619999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0176",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.837216905217
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0177",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.740578605423
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0178",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.479566065374
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0179",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8196332681980001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0180",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.935962375081
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0181",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6962724751980001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0182",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.855971640412
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0183",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.707985760103
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0184",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7729875982459999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0185",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8486921261049999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0186",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.763423907283
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0187",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6268292981870001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0188",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6486739525190001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0189",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7532409595370001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0190",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.87295008518
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0191",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.700479962132
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0192",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6380327433199999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0193",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8076014489830001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0194",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.687180556294
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0195",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7650749918690001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0196",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.773731877843
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0197",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.825241977411
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0198",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.83735064671
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0199",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.905009186441
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0200",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.758965037389
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0201",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8870883510709999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0202",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7189797000300001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0203",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.822713268776
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0204",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.710418626162
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0205",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6804130046860001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0206",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784253722121
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0207",
+    "prompt": "[QED]0.32[/QED][SMILES]",
+    "targets": {
+      "qed": 0.320531157003
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0208",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7087614488070001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0209",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8094174610770001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0210",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.850887231699
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0211",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8046930761
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0212",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.665948779826
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0213",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.898929170257
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0214",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8526919532170001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0215",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.821490871143
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0216",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8038615998530001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0217",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.583261278836
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0218",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7917814958130001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0219",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890060260325
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0220",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.674563267473
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0221",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.493808389395
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0222",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.754942540078
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0223",
+    "prompt": "[QED]0.40[/QED][SMILES]",
+    "targets": {
+      "qed": 0.401218787018
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0224",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.795779293406
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0225",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.740347533471
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0226",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.83817081559
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0227",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.874654152718
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0228",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7944397520559999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0229",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.835142643504
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0230",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.629308684651
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0231",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.764241227318
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0232",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.74269510786
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0233",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.875039128312
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0234",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.663168675461
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0235",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.614352529633
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0236",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8771173807889999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0237",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7295451463179999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0238",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6954908682800001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0239",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.698196523308
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0240",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7797873400319999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0241",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.900825454093
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0242",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.712236624705
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0243",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.724245239012
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0244",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.944686418981
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0245",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7813620487459999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0246",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.915566647866
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0247",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.617101275307
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0248",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.884718418284
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0249",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.806642057768
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0250",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.931020984979
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0251",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.854015472755
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0252",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8308292116399999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0253",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5040583294550001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0254",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.676801487369
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0255",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.704886575882
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0256",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.738979800731
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0257",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.870999227149
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0258",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8410194252650001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0259",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.724124750674
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0260",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.451102551348
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0261",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.817459666355
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0262",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8250402684129999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0263",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.780635214571
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0264",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784379672131
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0265",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.595514553844
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0266",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.836556422688
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0267",
+    "prompt": "[QED]0.29[/QED][SMILES]",
+    "targets": {
+      "qed": 0.288078542197
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0268",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.577534901937
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0269",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.725295854807
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0270",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8185469253759999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0271",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.9335341286700002
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0272",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.599013794903
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0273",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810101629438
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0274",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.876228498146
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0275",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.831328270518
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0276",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.805817633632
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0277",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7959707353919999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0278",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.531447420203
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0279",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.868021066412
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0280",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.497311676003
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0281",
+    "prompt": "[QED]0.41[/QED][SMILES]",
+    "targets": {
+      "qed": 0.408281124377
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0282",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.670915248125
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0283",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.721626136166
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0284",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5798751898210001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0285",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.637294138222
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0286",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.642813712563
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0287",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.871213461754
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0288",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7212449958730001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0289",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.887351511189
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0290",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.898138448591
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0291",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.721613618868
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0292",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6537825224889999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0293",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.89645000957
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0294",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.742981652323
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0295",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6198022661379999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0296",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.687059103732
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0297",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7845229121230001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0298",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.437458078241
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0299",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.66430049484
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0300",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.843144507203
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0301",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8943297908050001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0302",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.787783535718
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0303",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.59404419162
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0304",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8167871143369999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0305",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8192275998890001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0306",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.797854780376
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0307",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.667712004524
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0308",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.748254962741
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0309",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8577293930709999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0310",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.640211435115
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0311",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7311818951890001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0312",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.778967175566
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0313",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.660882758456
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0314",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.578738549642
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0315",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6604350205430001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0316",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.871260725415
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0317",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.651511606251
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0318",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8695094599490001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0319",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784179578244
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0320",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5958978012430001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0321",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.887469498802
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0322",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.620183469261
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0323",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.47766332367
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0324",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8111659034980001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0325",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.725430365923
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0326",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.833014368514
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0327",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.76866440331
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0328",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.501946395791
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0329",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.660044165922
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0330",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.653758971246
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0331",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7702823317599999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0332",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.476238048484
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0333",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6753684827490001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0334",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.809384894514
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0335",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.762517397035
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0336",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.448788526238
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0337",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.905383057594
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0338",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.858837270725
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0339",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.484897562403
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0340",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.908547887305
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0341",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.758921699042
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0342",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.856143436538
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0343",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7504837018580001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0344",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.869203410759
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0345",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.770192311505
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0346",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.688715690722
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0347",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.89792612219
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0348",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.797931358405
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0349",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.648492171696
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0350",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7448893667919999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0351",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.822356629157
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0352",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.484478626152
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0353",
+    "prompt": "[QED]0.46[/QED][SMILES]",
+    "targets": {
+      "qed": 0.456763440802
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0354",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.851732778679
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0355",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.471130984202
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0356",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.679594369591
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0357",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.739524899756
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0358",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.43612862037
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0359",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.871217160945
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0360",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.548278299989
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0361",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.729407103541
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0362",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.806607041161
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0363",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.796099962396
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0364",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.491915815801
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0365",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7384708416
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0366",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.778885190722
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0367",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.754951285917
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0368",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.744122721863
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0369",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5349653846419999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0370",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8232903761220001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0371",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.908939560967
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0372",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.799030264137
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0373",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.823690667668
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0374",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.801509610018
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0375",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8341746912019999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0376",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.71761869648
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0377",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7908051759289999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0378",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.89834651536
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0379",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.850853363027
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0380",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.82018144763
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0381",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.935976445745
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0382",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.74728697005
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0383",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.872954470978
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0384",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.832795286217
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0385",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5818472402679999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0386",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852465106952
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0387",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.68730740455
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0388",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.780983317655
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0389",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.9234277267799998
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0390",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.642683816675
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0391",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.897997076775
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0392",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.825329915805
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0393",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8821095532709999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0394",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.873747908529
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0395",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.669093656925
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0396",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.898638826603
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0397",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890458946312
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0398",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.843346525746
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0399",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.834998463484
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0400",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5529472287520001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0401",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7744327111210001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0402",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.855331178797
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0403",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.666503742688
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0404",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8105389618340001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0405",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.665773842892
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0406",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.593118303992
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0407",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.815456482498
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0408",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.776230765968
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0409",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.566100400591
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0410",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.801437045952
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0411",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.538168209313
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0412",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.74263505667
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0413",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.661283509223
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0414",
+    "prompt": "[QED]0.40[/QED][SMILES]",
+    "targets": {
+      "qed": 0.399689593379
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0415",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.476206151627
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0416",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.847599823988
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0417",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.905596288864
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0418",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8566909773370001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0419",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6921783138070001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0420",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.676906321569
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0421",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.644735437869
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0422",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.768191851739
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0423",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.772746963618
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0424",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.858081199386
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0425",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.800676122304
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0426",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.595687755146
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0427",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.872445318715
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0428",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.606132231453
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0429",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.509917926298
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0430",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.795764731027
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0431",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.441478586254
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0432",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.641850300487
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0433",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.868896952735
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0434",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.76112902602
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0435",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7626565180949999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0436",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.785775363323
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0437",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8453690352399998
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0438",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.500831875601
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0439",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.511678619998
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0440",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.780355245577
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0441",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.88489246394
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0442",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.720224399947
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0443",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.779616645842
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0444",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.525567264037
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0445",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.819085369534
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0446",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.874182043052
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0447",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8919882469120001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0448",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8869835520489999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0449",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7445661276540001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0450",
+    "prompt": "[QED]0.38[/QED][SMILES]",
+    "targets": {
+      "qed": 0.380009400109
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0451",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7057541638060001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0452",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.721581277712
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0453",
+    "prompt": "[QED]0.41[/QED][SMILES]",
+    "targets": {
+      "qed": 0.408454255382
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0454",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.794894313307
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0455",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.766729914565
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0456",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810651108134
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0457",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8437468605030001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0458",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.441381364332
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0459",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.494433591256
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0460",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.694279069498
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0461",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.746455932924
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0462",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5384937752350001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0463",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.888697475068
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0464",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5870161809059999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0465",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.865540645774
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0466",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8661307426129999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0467",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.808815829833
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0468",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7274674370730001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0469",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.920331350782
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0470",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.495914810876
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0471",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.652009523323
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0472",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.813473620015
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0473",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6505488036429999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0474",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.807184890141
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0475",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.700587343253
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0476",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.909684878735
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0477",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.789550180607
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0478",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852489215022
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0479",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.722874844569
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0480",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.778304899559
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0481",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.909423149292
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0482",
+    "prompt": "[QED]0.37[/QED][SMILES]",
+    "targets": {
+      "qed": 0.3698008579
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0483",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.932014774446
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0484",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.875546308601
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0485",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.895812008718
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0486",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7944615543629999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0487",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.838611537827
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0488",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810295260514
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0489",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7844545416519999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0490",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7430269613510001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0491",
+    "prompt": "[QED]0.40[/QED][SMILES]",
+    "targets": {
+      "qed": 0.399597485968
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0492",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.527683381073
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0493",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.515269648046
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0494",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.776208809853
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0495",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.805757645253
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0496",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.665747177817
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0497",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.860644390373
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0498",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.630411324122
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0499",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.775631838193
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0500",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.880419627673
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0501",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.798320869136
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0502",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.844527059172
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0503",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8232281785500001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0504",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.798782537313
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0505",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8991701835060001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0506",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7116624803020001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0507",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.696584994798
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0508",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7544017591419999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0509",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.782942949416
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0510",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.864931476837
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0511",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.738967530836
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0512",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.542570997526
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0513",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8568582923929999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0514",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.769091598346
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0515",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.761150216401
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0516",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.865241420308
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0517",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810424531514
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0518",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.630471845729
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0519",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8007164758040001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0520",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6316580271450001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0521",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.775239860369
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0522",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.638235770236
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0523",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7873761166969999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0524",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.677569929807
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0525",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7323762963439999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0526",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.682976713441
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0527",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.836134292419
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0528",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.628253741021
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0529",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.539334040595
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0530",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.908667565608
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0531",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7635866428210001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0532",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.929248237366
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0533",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.786036160914
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0534",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7101026967640001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0535",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8944155819249999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0536",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.767806930329
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0537",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.651062396382
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0538",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784526594165
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0539",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.623826457006
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0540",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7578887811489999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0541",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7630622901369999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0542",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8359050098630001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0543",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.855553284886
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0544",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8738119263770001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0545",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.836584880609
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0546",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7416148707439999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0547",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.682779213143
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0548",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7786887911229999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0549",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.915668870322
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0550",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.794732209692
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0551",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8411839211650001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0552",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6849593460160001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0553",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.722531677376
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0554",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.816601055757
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0555",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.859191686757
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0556",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.818526690652
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0557",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784894804126
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0558",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.878966003679
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0559",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7642154443279999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0560",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.866551216032
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0561",
+    "prompt": "[QED]0.51[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5060328707940001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0562",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.921340247573
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0563",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.52617732641
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0564",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.716728404488
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0565",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.704905626297
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0566",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.749461791753
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0567",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.842608875101
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0568",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.741374258439
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0569",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.901122778039
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0570",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.753763035284
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0571",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.697210400495
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0572",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.671188254169
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0573",
+    "prompt": "[QED]0.42[/QED][SMILES]",
+    "targets": {
+      "qed": 0.419257007003
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0574",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.872766379383
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0575",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.757801947185
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0576",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.820067573681
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0577",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.475772307424
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0578",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7788375592039999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0579",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.731592699811
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0580",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.94231668717
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0581",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7407351941789999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0582",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.818389281575
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0583",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.802209766335
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0584",
+    "prompt": "[QED]0.46[/QED][SMILES]",
+    "targets": {
+      "qed": 0.463614467517
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0585",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.738405306331
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0586",
+    "prompt": "[QED]0.40[/QED][SMILES]",
+    "targets": {
+      "qed": 0.402833810444
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0587",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8781196077079999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0588",
+    "prompt": "[QED]0.36[/QED][SMILES]",
+    "targets": {
+      "qed": 0.356021883524
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0589",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7514599248010001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0590",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.889177880654
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0591",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.749457394262
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0592",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.865903801276
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0593",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.469755677811
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0594",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.709078319723
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0595",
+    "prompt": "[QED]0.46[/QED][SMILES]",
+    "targets": {
+      "qed": 0.4645130549930001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0596",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8832860740340001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0597",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.919527215194
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0598",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.871980597365
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0599",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8371177238169999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0600",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.765424017841
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0601",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.857099256661
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0602",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.940321828344
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0603",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.834021618265
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0604",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6570102273899999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0605",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.582275222026
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0606",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7695907423720001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0607",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.805486738135
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0608",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.843363312052
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0609",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.57814257678
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0610",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.824969155167
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0611",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.638404100619
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0612",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.543511760127
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0613",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.701540844531
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0614",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.915320140058
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0615",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7911302884270001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0616",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.616993271493
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0617",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.90706672322
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0618",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890378863846
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0619",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.623691899957
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0620",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.90877485297
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0621",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7636846065299999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0622",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.861135662166
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0623",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.707868540469
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0624",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8398097169869999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0625",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7659047595899999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0626",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.911577361333
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0627",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5492011794389999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0628",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.910833622902
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0629",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8500145193080001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0630",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.805049993803
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0631",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.835602968445
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0632",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8100661381209999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0633",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.865625828387
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0634",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.892957282095
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0635",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.902407206827
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0636",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.866240685973
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0637",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.792584552959
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0638",
+    "prompt": "[QED]0.41[/QED][SMILES]",
+    "targets": {
+      "qed": 0.413255869295
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0639",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8071276226369999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0640",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8982658086700002
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0641",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.741895726573
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0642",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.767527081168
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0643",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.65086213745
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0644",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.643235325692
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0645",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.832385304219
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0646",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8282831984469999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0647",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7258539712890001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0648",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.594213356779
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0649",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.932479696101
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0650",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.763609579489
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0651",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.760644736161
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0652",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.77598320794
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0653",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.661321742654
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0654",
+    "prompt": "[QED]0.56[/QED][SMILES]",
+    "targets": {
+      "qed": 0.560054614398
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0655",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.841018274238
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0656",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.681627179006
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0657",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6755688723700001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0658",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7981365464740001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0659",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.656036451174
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0660",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.815574422023
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0661",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.473315137731
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0662",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.917134504077
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0663",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.904618789304
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0664",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8103326690360001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0665",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.770143238829
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0666",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.82626225829
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0667",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.770028069903
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0668",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.565365017682
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0669",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.57450937256
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0670",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.515369175662
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0671",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7388298930949999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0672",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.609126334077
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0673",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7799406362260001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0674",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.662655935275
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0675",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.766424368518
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0676",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.610140559644
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0677",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.689696907657
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0678",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7798349456389999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0679",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.744338388942
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0680",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8418309003579999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0681",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.711696729101
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0682",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.931749788565
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0683",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.443301153592
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0684",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.840191082376
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0685",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.878158356075
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0686",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.814281728332
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0687",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8334462903669999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0688",
+    "prompt": "[QED]0.36[/QED][SMILES]",
+    "targets": {
+      "qed": 0.364337901688
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0689",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.887336383529
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0690",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.715130386287
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0691",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7674578001119999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0692",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.816898648408
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0693",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7702504779530001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0694",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.751928713374
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0695",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.721681017311
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0696",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8303036986139999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0697",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.853323044462
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0698",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8511123054269999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0699",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.734167980626
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0700",
+    "prompt": "[QED]0.56[/QED][SMILES]",
+    "targets": {
+      "qed": 0.562660978154
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0701",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.897317883995
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0702",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.905556647195
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0703",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.800223312817
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0704",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.751864120424
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0705",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.634801513549
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0706",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.855426376833
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0707",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.702822882966
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0708",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.499437288407
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0709",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8505944121789999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0710",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.737099575627
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0711",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8446018908840001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0712",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8416772744059999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0713",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.865293339569
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0714",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.785065320395
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0715",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.773281140445
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0716",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.73218042277
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0717",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8248452350480001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0718",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8879700566509999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0719",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.861736017733
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0720",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.528746824546
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0721",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8393929863580001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0722",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.702064859112
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0723",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.841869004059
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0724",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.747832803477
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0725",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.668743041321
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0726",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.807292461405
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0727",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.841335552701
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0728",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.565592163322
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0729",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.766219732931
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0730",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7439019347720001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0731",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.616799257258
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0732",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784151575834
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0733",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.873272860547
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0734",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.909592808108
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0735",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.923534095208
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0736",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.837459824465
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0737",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7445987703329999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0738",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.913674978002
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0739",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.824556956282
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0740",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.650353673462
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0741",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.697740643431
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0742",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.657158815162
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0743",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.755786875924
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0744",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.758381940406
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0745",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.90215756143
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0746",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.795876041558
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0747",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.803541642125
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0748",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.835699801864
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0749",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.913199166672
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0750",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.820257448865
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0751",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.732475540023
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0752",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.466990312903
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0753",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.887984267137
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0754",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.629235088837
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0755",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.649484395824
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0756",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.811882867946
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0757",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.492720073278
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0758",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.885617441803
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0759",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.926206868531
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0760",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8105184515889999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0761",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.526731554696
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0762",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8545237739820001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0763",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.906345475603
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0764",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.854453695954
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0765",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.761026021494
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0766",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.453293912321
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0767",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6823919683149999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0768",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.75337143729
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0769",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7237257391419999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0770",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.4817809932810001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0771",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.617300453661
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0772",
+    "prompt": "[QED]0.31[/QED][SMILES]",
+    "targets": {
+      "qed": 0.311500017302
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0773",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.654073751756
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0774",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.811813171806
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0775",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.798775979894
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0776",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.918621951523
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0777",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8963756424379999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0778",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.913126409926
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0779",
+    "prompt": "[QED]0.34[/QED][SMILES]",
+    "targets": {
+      "qed": 0.336401805082
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0780",
+    "prompt": "[QED]0.31[/QED][SMILES]",
+    "targets": {
+      "qed": 0.314798231615
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0781",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8112554718780001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0782",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.780822956656
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0783",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.623224276738
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0784",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.80566041028
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0785",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852627685158
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0786",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8152075129999999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0787",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.437148154905
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0788",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8647018913200002
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0789",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.684068090804
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0790",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.84403209494
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0791",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8190731373819999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0792",
+    "prompt": "[QED]0.38[/QED][SMILES]",
+    "targets": {
+      "qed": 0.3843419014940001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0793",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.666872526827
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0794",
+    "prompt": "[QED]0.39[/QED][SMILES]",
+    "targets": {
+      "qed": 0.388602610726
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0795",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.791972430678
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0796",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6562154222600001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0797",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.873843536967
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0798",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.755448077604
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0799",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.571573968765
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0800",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8958250676989999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0801",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.813893421153
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0802",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.632162262866
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0803",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.707614852296
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0804",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.826837517385
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0805",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7517112995440001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0806",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.779439753033
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0807",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8640090537799999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0808",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.753727760252
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0809",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.764429763275
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0810",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.790593397624
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0811",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7676963662899999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0812",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.872800294996
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0813",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.91396112219
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0814",
+    "prompt": "[QED]0.71[/QED][SMILES]",
+    "targets": {
+      "qed": 0.707120990663
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0815",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.90941500685
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0816",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.749469437343
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0817",
+    "prompt": "[QED]0.56[/QED][SMILES]",
+    "targets": {
+      "qed": 0.555034477758
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0818",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8503527075489999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0819",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.82536416366
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0820",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.622937788822
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0821",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.571631901889
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0822",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.501499652324
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0823",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852525520097
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0824",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.645014573847
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0825",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.654867603453
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0826",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.757560218559
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0827",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.824141257679
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0828",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.869673092817
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0829",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7462156940160001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0830",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5201834997779999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0831",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.9005795741249999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0832",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.796063235035
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0833",
+    "prompt": "[QED]0.55[/QED][SMILES]",
+    "targets": {
+      "qed": 0.552626817442
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0834",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.702783436581
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0835",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.877237265678
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0836",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.884522762181
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0837",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.537137003751
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0838",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.751354886886
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0839",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6660484044489999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0840",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.915736790872
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0841",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.815691314719
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0842",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6827179764
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0843",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7659792893459999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0844",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.544347391712
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0845",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.703521968583
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0846",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8135353352410001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0847",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.904400080041
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0848",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8640524581829999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0849",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.830379193127
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0850",
+    "prompt": "[QED]0.93[/QED][SMILES]",
+    "targets": {
+      "qed": 0.929251291707
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0851",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5235978857620001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0852",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.771079619047
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0853",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.871401573942
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0854",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.633657628925
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0855",
+    "prompt": "[QED]0.47[/QED][SMILES]",
+    "targets": {
+      "qed": 0.468864039115
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0856",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.747884284406
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0857",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.83344428104
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0858",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.737297268469
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0859",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6485948876959999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0860",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.758404647943
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0861",
+    "prompt": "[QED]0.29[/QED][SMILES]",
+    "targets": {
+      "qed": 0.292614849299
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0862",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7308739445739999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0863",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.716889089198
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0864",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890624409423
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0865",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8334574152330001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0866",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.800764913621
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0867",
+    "prompt": "[QED]0.64[/QED][SMILES]",
+    "targets": {
+      "qed": 0.638940082518
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0868",
+    "prompt": "[QED]0.56[/QED][SMILES]",
+    "targets": {
+      "qed": 0.556238095846
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0869",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.725101702371
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0870",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.520081449993
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0871",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8667861105700001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0872",
+    "prompt": "[QED]0.43[/QED][SMILES]",
+    "targets": {
+      "qed": 0.431288294604
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0873",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.44552218891
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0874",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8384878903599999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0875",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8659208358380001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0876",
+    "prompt": "[QED]0.52[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5214857283959999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0877",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.803094556769
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0878",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.724926657828
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0879",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.64694387168
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0880",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.649710786431
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0881",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.783800390112
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0882",
+    "prompt": "[QED]0.60[/QED][SMILES]",
+    "targets": {
+      "qed": 0.604466817725
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0883",
+    "prompt": "[QED]0.48[/QED][SMILES]",
+    "targets": {
+      "qed": 0.484906291304
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0884",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.849992197424
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0885",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8515560889139999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0886",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6926722379019999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0887",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8903490643649999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0888",
+    "prompt": "[QED]0.44[/QED][SMILES]",
+    "targets": {
+      "qed": 0.441212291856
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0889",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.80490994846
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0890",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.485405634824
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0891",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.623294197346
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0892",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.733464849967
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0893",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.822368020869
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0894",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.799200844173
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0895",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.81801657006
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0896",
+    "prompt": "[QED]0.50[/QED][SMILES]",
+    "targets": {
+      "qed": 0.497822931038
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0897",
+    "prompt": "[QED]0.94[/QED][SMILES]",
+    "targets": {
+      "qed": 0.942087325715
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0898",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.449339707783
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0899",
+    "prompt": "[QED]0.35[/QED][SMILES]",
+    "targets": {
+      "qed": 0.352809734045
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0900",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7738220594640001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0901",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7922454026000001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0902",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.668090036916
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0903",
+    "prompt": "[QED]0.35[/QED][SMILES]",
+    "targets": {
+      "qed": 0.353931300813
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0904",
+    "prompt": "[QED]0.57[/QED][SMILES]",
+    "targets": {
+      "qed": 0.571394985419
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0905",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8858543867219999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0906",
+    "prompt": "[QED]0.49[/QED][SMILES]",
+    "targets": {
+      "qed": 0.487806523192
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0907",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.77413871555
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0908",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.877092570552
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0909",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.44517348913
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0910",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.535276617191
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0911",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7308969234110001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0912",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.67160956835
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0913",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.58865104199
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0914",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7845550102959999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0915",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.616501883601
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0916",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810065910161
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0917",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.790703755775
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0918",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8616860111069999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0919",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.67336026612
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0920",
+    "prompt": "[QED]0.66[/QED][SMILES]",
+    "targets": {
+      "qed": 0.663522458248
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0921",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.694347666647
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0922",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.897620567493
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0923",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.5822270342270001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0924",
+    "prompt": "[QED]0.54[/QED][SMILES]",
+    "targets": {
+      "qed": 0.537442531322
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0925",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8004405514440001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0926",
+    "prompt": "[QED]0.91[/QED][SMILES]",
+    "targets": {
+      "qed": 0.906308338424
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0927",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.829924464295
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0928",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.687363254833
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0929",
+    "prompt": "[QED]0.63[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6293000547550001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0930",
+    "prompt": "[QED]0.82[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8203367156010001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0931",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.846863729336
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0932",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8797817845489999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0933",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.88797061437
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0934",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7602823765629999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0935",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7619632527689999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0936",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.876852333995
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0937",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.768998489534
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0938",
+    "prompt": "[QED]0.80[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8019201536660001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0939",
+    "prompt": "[QED]0.53[/QED][SMILES]",
+    "targets": {
+      "qed": 0.530927602574
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0940",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.731827938589
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0941",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.692279955945
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0942",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.76874464184
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0943",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6911326198759999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0944",
+    "prompt": "[QED]0.77[/QED][SMILES]",
+    "targets": {
+      "qed": 0.774115607129
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0945",
+    "prompt": "[QED]0.78[/QED][SMILES]",
+    "targets": {
+      "qed": 0.784081323751
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0946",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.805178164849
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0947",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.445904745236
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0948",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.903394811691
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0949",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7634358927509999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0950",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8537191160600001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0951",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.814849685887
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0952",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8774475775020001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0953",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.590052022469
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0954",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8464414126049999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0955",
+    "prompt": "[QED]0.61[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6125900629959999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0956",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7939330946529999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0957",
+    "prompt": "[QED]0.75[/QED][SMILES]",
+    "targets": {
+      "qed": 0.75350160757
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0958",
+    "prompt": "[QED]0.89[/QED][SMILES]",
+    "targets": {
+      "qed": 0.890407046725
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0959",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.833552041392
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0960",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.835155293758
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0961",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.903092297335
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0962",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.857056858233
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0963",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.738473083905
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0964",
+    "prompt": "[QED]0.62[/QED][SMILES]",
+    "targets": {
+      "qed": 0.618018978366
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0965",
+    "prompt": "[QED]0.70[/QED][SMILES]",
+    "targets": {
+      "qed": 0.696458662059
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0966",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.67251383497
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0967",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.75571506383
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0968",
+    "prompt": "[QED]0.86[/QED][SMILES]",
+    "targets": {
+      "qed": 0.861245518568
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0969",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.720595140433
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0970",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6499780621419999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0971",
+    "prompt": "[QED]0.90[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8952259845939999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0972",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.876248134059
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0973",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.729600670439
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0974",
+    "prompt": "[QED]0.59[/QED][SMILES]",
+    "targets": {
+      "qed": 0.590098345574
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0975",
+    "prompt": "[QED]0.35[/QED][SMILES]",
+    "targets": {
+      "qed": 0.347445006891
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0976",
+    "prompt": "[QED]0.92[/QED][SMILES]",
+    "targets": {
+      "qed": 0.919119308114
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0977",
+    "prompt": "[QED]0.33[/QED][SMILES]",
+    "targets": {
+      "qed": 0.327391823559
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0978",
+    "prompt": "[QED]0.79[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7880510636
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0979",
+    "prompt": "[QED]0.58[/QED][SMILES]",
+    "targets": {
+      "qed": 0.578386288262
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0980",
+    "prompt": "[QED]0.72[/QED][SMILES]",
+    "targets": {
+      "qed": 0.71514231722
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0981",
+    "prompt": "[QED]0.73[/QED][SMILES]",
+    "targets": {
+      "qed": 0.727795648943
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0982",
+    "prompt": "[QED]0.68[/QED][SMILES]",
+    "targets": {
+      "qed": 0.679736868318
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0983",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852740582634
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0984",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.834260765518
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0985",
+    "prompt": "[QED]0.45[/QED][SMILES]",
+    "targets": {
+      "qed": 0.450152241045
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0986",
+    "prompt": "[QED]0.65[/QED][SMILES]",
+    "targets": {
+      "qed": 0.654679216511
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0987",
+    "prompt": "[QED]0.67[/QED][SMILES]",
+    "targets": {
+      "qed": 0.674498923485
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0988",
+    "prompt": "[QED]0.76[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7571819685060001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0989",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.826648515307
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0990",
+    "prompt": "[QED]0.87[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8708842326649999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0991",
+    "prompt": "[QED]0.83[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8283656253020001
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0992",
+    "prompt": "[QED]0.69[/QED][SMILES]",
+    "targets": {
+      "qed": 0.6900914977339999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0993",
+    "prompt": "[QED]0.84[/QED][SMILES]",
+    "targets": {
+      "qed": 0.837827322763
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0994",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.852899403546
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0995",
+    "prompt": "[QED]0.88[/QED][SMILES]",
+    "targets": {
+      "qed": 0.8800662274359999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0996",
+    "prompt": "[QED]0.81[/QED][SMILES]",
+    "targets": {
+      "qed": 0.810645358962
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0997",
+    "prompt": "[QED]0.74[/QED][SMILES]",
+    "targets": {
+      "qed": 0.7414334802399999
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0998",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.850909167851
+    },
+    "ref_smiles": null
+  },
+  {
+    "id": "qed-0999",
+    "prompt": "[QED]0.85[/QED][SMILES]",
+    "targets": {
+      "qed": 0.850099480991
+    },
+    "ref_smiles": null
+  }
+]

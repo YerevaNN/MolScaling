@@ -27,7 +27,7 @@ from utils.curation import (
 from utils.metrics import masked_mae_loss, evaluate_regression, _set_seed
 
 MODEL_MAP = {
-    "170m": "yerevann/chemllama-170m",
+    "170m": "yerevann/ChemLlama-170M",
     "380m": "yerevann/ChemLlama-380M",
     "1b": "yerevann/ChemLlama-1B",
     "1.3b": "yerevann/ChemLlama-1B",
