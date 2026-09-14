@@ -1,53 +1,53 @@
 # Optimal Hyperparameters for PXR Regression across ChemLlama scales
 
 170m:
-  model_name: "yerevann/ChemLlama-170M"
-  backbone_lr: 0.000008614711034546
+  model_name: "yerevann/chemllama-170m"
+  backbone_lr: 6.8621516061213e-6
   batch_size: 16
-  head_lr: 0.00002994751958645985
-  mlp_hidden_size: 512
-  mlp_layers: 2
+  head_lr: 5.186775614634535e-5
+  mlp_hidden_size: 256
   n_unfreeze: 8
-  pooling: "last_token"
-  weight_decay: 0.25
+  pooling: "attn"
+  weight_decay: 0.05
   dropout: 0.1
+  warmup_ratio: 0.1
   epochs: 10
 
 380m:
   model_name: "yerevann/ChemLlama-380M"
-  backbone_lr: 0.000026134065306631186
+  backbone_lr: 2.613426394436323e-5
   batch_size: 64
-  head_lr: 0.00011956554559281729
+  head_lr: 0.00011952981996818862
   mlp_hidden_size: 512
-  mlp_layers: 2
   n_unfreeze: 16
   pooling: "last_token"
   weight_decay: 0.15
   dropout: 0.1
+  warmup_ratio: 0.1
   epochs: 10
 
 1b:
   model_name: "yerevann/ChemLlama-1B"
-  backbone_lr: 0.00002561439773767425
+  backbone_lr: 2.561442228601606e-5
   batch_size: 64
-  head_lr: 0.0008972583279188043
+  head_lr: 0.0008972710804456893
   mlp_hidden_size: 256
-  mlp_layers: 2
   n_unfreeze: 12
   pooling: "last_token"
   weight_decay: 0.15
   dropout: 0.1
+  warmup_ratio: 0.1
   epochs: 10
 
 3b:
   model_name: "yerevann/ChemLlama-3B"
-  backbone_lr: 0.00000622117930688772
+  backbone_lr: 6.22117930688772e-6
   batch_size: 64
-  head_lr: 0.00009954968797005308
+  head_lr: 9.954968797005308e-5
   mlp_hidden_size: 256
-  mlp_layers: 2
   n_unfreeze: 24
   pooling: "attn"
   weight_decay: 0.15
   dropout: 0.1
+  warmup_ratio: 0.1
   epochs: 10

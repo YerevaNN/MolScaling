@@ -5,6 +5,12 @@ This track evaluates language model scaling for molecular property prediction ac
 * **PXR Regression** (Pregnane X Receptor $p\text{EC}_{50}$ regression with RDKit tautomer standardization & Butina split)
 * **Leash-BELKA** (Multi-target small molecule-protein binding classification for BRD4, HSA, and sEH)
 
+**Key Repository Features:**
+* **Optimized Hyperparameters**: YAML configs store the optimal configurations derived from Bayesian sweeps for all model scales.
+* **3B Model Optimizations**: `bfloat16`, SDPA attention, and gradient checkpointing are automatically enabled for memory-efficient `1.3B` and `3B` model scaling.
+* **Advanced Loss Functions**: `FocalLoss` for highly imbalanced multi-label classification (Belka) and sample-weighted `Masked MAE` for regression (PXR).
+* **100% Data Utilization**: The `multi-seed` regime trains on 100% of the training dataset without artificial validation splits to maximize predictive power on blinded test sets.
+
 ---
 
 ## Datasets

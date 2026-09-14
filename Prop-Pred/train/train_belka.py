@@ -5,7 +5,6 @@ import os
 import sys
 import glob
 import random
-import hashlib
 import argparse
 import yaml
 import numpy as np
@@ -61,7 +60,7 @@ class BelkaTrainDataset(IterableDataset):
                     sub = t["subset"].to_numpy()
                     idx = [
                         i for i, s in enumerate(sm)
-                        if sub[i] == 0 and int(hashlib.md5(s.encode("utf-8")).hexdigest(), 16) % 10 == 0
+                        if sub[i] == 0
                     ]
                     if len(idx) == 0:
                         continue
@@ -103,12 +102,18 @@ class BelkaClassifier(nn.Module):
         self.pooling = pooling
         token = os.environ.get("HF_TOKEN")
         from transformers import AutoModel
-        self.backbone = AutoModel.from_pretrained(model_name, token=token)
+        is_3b = "3B" in model_name or "3b" in model_name or "1B" in model_name or "1b" in model_name
+        if is_3b:
+            self.backbone = AutoModel.from_pretrained(
+                model_name, token=token, torch_dtype=torch.bfloat16, attn_implementation="sdpa"
+            )
+        else:
+            self.backbone = AutoModel.from_pretrained(model_name, token=token)
+            
         self.backbone.config.use_cache = False
         self.backbone.resize_token_embeddings(tokenizer_len)
         _freeze_all_but_last_n(self.backbone, unfreeze_last_n=unfreeze_last_n)
 
-        is_3b = "3B" in model_name or "3b" in model_name
         if is_3b:
             if hasattr(self.backbone, "gradient_checkpointing_enable"):
                 self.backbone.gradient_checkpointing_enable()
@@ -144,14 +149,21 @@ class BelkaClassifier(nn.Module):
         return self.head(pooled)
 
 
-def focal_binary_cross_entropy(logits: torch.Tensor, targets: torch.Tensor, gamma: float = 2.0):
-    bce = F.binary_cross_entropy_with_logits(logits, targets, reduction="none")
-    if gamma <= 0:
-        return bce.mean()
-    p = torch.sigmoid(logits)
-    p_t = p * targets + (1.0 - p) * (1.0 - targets)
-    focal_weight = (1.0 - p_t) ** gamma
-    return (focal_weight * bce).mean()
+class FocalLoss(nn.Module):
+    def __init__(self, gamma=2.0):
+        super().__init__()
+        pos = torch.tensor([0.005, 0.005, 0.005])
+        self.register_buffer("wp", 1.0 / pos.sqrt())
+        self.register_buffer("wn", 1.0 / (1 - pos).sqrt())
+        self.gamma = gamma
+
+    def forward(self, x, y):
+        y_smooth = y * 0.9 + 0.05
+        bce = F.binary_cross_entropy_with_logits(x, y_smooth, reduction="none")
+        pt = torch.exp(-bce)
+        alpha = torch.where(y == 1, self.wp, self.wn)
+        alpha = alpha / alpha.mean()
+        return (alpha * (1 - pt) ** self.gamma * bce).mean()
 
 
 def train_single_seed(tokenizer, device, config, seed, data_dir, weight_path):
@@ -193,6 +205,8 @@ def train_single_seed(tokenizer, device, config, seed, data_dir, weight_path):
     total_steps = epochs * steps_per_epoch
     warmup_steps = int(config.get("warmup_ratio", 0.1) * total_steps)
     scheduler = get_cosine_schedule_with_warmup(optimizer, num_warmup_steps=warmup_steps, num_training_steps=total_steps)
+    
+    loss_fn = FocalLoss(gamma=config.get("focal_gamma", 2.0)).to(device)
 
     try:
         for epoch in range(1, epochs + 1):
@@ -209,7 +223,7 @@ def train_single_seed(tokenizer, device, config, seed, data_dir, weight_path):
                 labels = batch["labels"].to(device)
 
                 logits = model(input_ids, attention_mask)
-                loss = focal_binary_cross_entropy(logits, labels, gamma=config.get("focal_gamma", 2.0))
+                loss = loss_fn(logits, labels)
 
                 loss.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)

@@ -79,17 +79,26 @@ class ChemlacticaRegressor(nn.Module):
         super().__init__()
         self.pooling = pooling
         token = os.environ.get("HF_TOKEN")
-        self.backbone = AutoModel.from_pretrained(
-            model_name,
-            revision=revision,
-            token=token
-        )
+        is_3b = "3B" in model_name or "3b" in model_name or "1B" in model_name or "1b" in model_name
+        if is_3b:
+            self.backbone = AutoModel.from_pretrained(
+                model_name,
+                revision=revision,
+                token=token,
+                torch_dtype=torch.bfloat16,
+                attn_implementation="sdpa"
+            )
+        else:
+            self.backbone = AutoModel.from_pretrained(
+                model_name,
+                revision=revision,
+                token=token
+            )
         self.backbone.config.use_cache = False
         self.backbone.resize_token_embeddings(tokenizer_len)
         _freeze_all_but_last_n(self.backbone, unfreeze_last_n=unfreeze_last_n)
 
         # Enable gradient checkpointing if explicitly requested or for 3B models
-        is_3b = "3B" in model_name or "3b" in model_name
         should_checkpoint = use_gradient_checkpointing if use_gradient_checkpointing is not None else is_3b
         if should_checkpoint:
             if hasattr(self.backbone, "gradient_checkpointing_enable"):
@@ -153,17 +162,26 @@ class ChemlacticaMultiTaskRegressor(nn.Module):
         self.tasks = tasks
         self.pooling = pooling
         token = os.environ.get("HF_TOKEN")
-        self.backbone = AutoModel.from_pretrained(
-            model_name,
-            revision=revision,
-            token=token
-        )
+        is_3b = "3B" in model_name or "3b" in model_name or "1B" in model_name or "1b" in model_name
+        if is_3b:
+            self.backbone = AutoModel.from_pretrained(
+                model_name,
+                revision=revision,
+                token=token,
+                torch_dtype=torch.bfloat16,
+                attn_implementation="sdpa"
+            )
+        else:
+            self.backbone = AutoModel.from_pretrained(
+                model_name,
+                revision=revision,
+                token=token
+            )
         self.backbone.config.use_cache = False
         self.backbone.resize_token_embeddings(tokenizer_len)
         _freeze_all_but_last_n(self.backbone, unfreeze_last_n=unfreeze_last_n)
 
         # Enable gradient checkpointing if explicitly requested or for 3B models
-        is_3b = "3B" in model_name or "3b" in model_name
         should_checkpoint = use_gradient_checkpointing if use_gradient_checkpointing is not None else is_3b
         if should_checkpoint:
             if hasattr(self.backbone, "gradient_checkpointing_enable"):

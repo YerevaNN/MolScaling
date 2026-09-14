@@ -50,7 +50,14 @@ class BelkaInferenceClassifier(nn.Module):
         self.pooling = pooling
         token = os.environ.get("HF_TOKEN")
         from transformers import AutoModel
-        self.backbone = AutoModel.from_pretrained(model_name, token=token)
+        is_3b = "3B" in model_name or "3b" in model_name or "1B" in model_name or "1b" in model_name
+        if is_3b:
+            self.backbone = AutoModel.from_pretrained(
+                model_name, token=token, torch_dtype=torch.bfloat16, attn_implementation="sdpa"
+            )
+        else:
+            self.backbone = AutoModel.from_pretrained(model_name, token=token)
+            
         self.backbone.config.use_cache = False
         self.backbone.resize_token_embeddings(tokenizer_len)
         _freeze_all_but_last_n(self.backbone, unfreeze_last_n=unfreeze_last_n)
