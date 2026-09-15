@@ -37,7 +37,7 @@ UNFREEZE_CANDIDATES = {
     "380m": [4, 8, 16],
     "1b": [4, 8, 16],
     "1.3b": [4, 8, 16],
-    "3b": [4, 8, 16, 24]
+    "3b": [4, 8, 16, 28]
 }
 
 
@@ -251,7 +251,7 @@ def train_trial(train_dataset, val_loader, tokenizer, device, config, model_name
         param_groups.append({"params": head_params, "lr": config["head_lr"], "weight_decay": config["weight_decay"]})
 
     optimizer = torch.optim.AdamW(param_groups)
-    epochs = config.get("epochs", 3)
+    epochs = config.get("epochs", 1)
     steps_per_epoch = 1500  # Streamed step budget
     total_steps = epochs * steps_per_epoch
     scheduler = get_cosine_schedule_with_warmup(optimizer, num_warmup_steps=int(0.1 * total_steps), num_training_steps=total_steps)
@@ -368,10 +368,10 @@ def main():
             "head_lr": {"distribution": "log_uniform_values", "min": 1e-4, "max": 1e-2},
             "backbone_lr": {"distribution": "log_uniform_values", "min": 1e-5, "max": 1e-3},
             "weight_decay": {"values": [0.001, 0.05, 0.1, 0.2]},
-            "mlp_hidden_size": {"values": [512, 1024, 2048]},
+            "mlp_hidden_size": {"values": [512, 1024]},
             "pooling": {"values": ["last_token", "attn"]},
             "n_unfreeze": {"values": unfreeze_vals},
-            "batch_size": {"values": [32, 64]},
+            "batch_size": {"values": [128]},
             "focal_gamma": {"values": [0, 2]}
         }
     }
@@ -396,7 +396,7 @@ def main():
                 "batch_size": wandb.config.batch_size,
                 "focal_gamma": wandb.config.focal_gamma,
                 "dropout": 0.25,
-                "epochs": 3
+                "epochs": 1
             }
 
             try:

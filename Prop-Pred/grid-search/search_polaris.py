@@ -161,7 +161,7 @@ def main():
     model_key = args.model.lower()
     checkpoint_path = MODEL_MAP.get(model_key, args.model)
     unfreeze_vals = UNFREEZE_CANDIDATES.get(model_key, [2, 4, 8, 16])
-    batch_sizes = [16, 32] if model_key == "3b" else [16, 32, 64]
+    batch_sizes = [16, 32, 64]
 
     print(f"Initializing Polaris ADME Sweep for Model: {checkpoint_path}")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -190,7 +190,7 @@ def main():
             "backbone_lr": {"distribution": "log_uniform_values", "min": 1e-6, "max": 5e-3},
             "weight_decay": {"values": [0.001, 0.05, 0.1, 0.15, 0.2, 0.25]},
             "mlp_layers": {"values": [2]},
-            "mlp_hidden_size": {"values": [256, 512]},
+            "mlp_hidden_size": {"values": [256, 512, 1024]},
             "pooling": {"values": ["mean", "last_token", "attn"]},
             "n_unfreeze": {"values": unfreeze_vals},
             "batch_size": {"values": batch_sizes}
