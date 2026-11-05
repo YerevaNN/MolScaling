@@ -58,7 +58,7 @@ QED and SA in joint prompts come from one ZINC250K molecule. Similarity target i
 Outputs: `Cond-Gen/results/<model>/<task>/summary.json` (optional `generations.jsonl`, `scatter_*.png`). Figures: `Cond-Gen/results/plots/scaling_{single,double,triple}.png` — single is QED \| SA \| similarity; double is 2×3 (QED, SA, QED+SA/5 × two tag orders); triple is 2×3 (QED, SA, similarity × two orders).
 
 ### 3. Docking & Optimization Benchmarks (`PMO-Dock/`)
-Protein-aware molecular optimization with ChemLlama + genetic search (`genetic_chemalactica`). Scaling grids live in `PMO-Dock/scale_configs/` (one YAML per task family: hit, lead, spec), in the same style as Cond-Gen: `--model` / `--task(s)` on the CLI, everything else in the file.
+Protein-aware molecular optimization with ChemLlama + genetic search (`genetic_chemalactica`). Scaling grids live in `PMO-Dock/scale_configs/` (one YAML per task family: hit, lead, spec, novel), in the same style as Cond-Gen: `--model` / `--task(s)` on the CLI, everything else in the file.
 
 Each config uses **seeds 1–5** and **`max_oracle_calls: 10000`**.
 
@@ -67,6 +67,7 @@ Each config uses **seeds 1–5** and **`max_oracle_calls: 10000`**.
 | `scale_configs/hit.yaml` | `hit.parp1`, `hit.fa7`, `hit.5ht1b`, `hit.braf`, `hit.jak2` |
 | `scale_configs/lead.yaml` | `lead.<protein>_06_<0–2>` (5 proteins × similarity 0.6 × 3 seed ligands) |
 | `scale_configs/spec.yaml` | `spec.6nzp_<antitarget>` (`4l00`, `5khw`, `5ut5`) |
+| `scale_configs/novel.yaml` | `novel.parp1`, `novel.fa7`, `novel.5ht1b`, `novel.braf`, `novel.jak2` |
 
 Those YAMLs are the scaling grid. The genetic runner still takes `--config_file` (model), `--task_name`, `--seeds`, and `--max_oracle_calls`:
 
@@ -78,6 +79,17 @@ python PMO-Dock/genetic_chemalactica/genetic_runner.py \
   --reward_type hit \
   --seeds 1 2 3 4 5 \
   --max_oracle_calls 10000
+```
+
+Novel hit uses the same five proteins. The prompt is QED and SA only, and `--reward_type gated` scores `(docking / 20)` times a 1-or-Gaussian term on docking, QED, and SA. Config: `PMO-Dock/genetic_chemalactica/genetic/configs/best_novel.yaml`.
+
+```bash
+python PMO-Dock/genetic_chemalactica/genetic_runner.py \
+  --config_file PMO-Dock/genetic_chemalactica/genetic/configs/best_novel.yaml \
+  --task_name novel.parp1 \
+  --reward_type gated \
+  --seeds 0 1 2 3 4 \
+  --max_oracle_calls 3000
 ```
 
 Model YAMLs: `llama3_170m.yaml`, `llama3_380m.yaml`, `llama3_1b.yaml`, `llama3_3b.yaml`. Lead needs `benchmark/actives.csv` (seed ligands).
